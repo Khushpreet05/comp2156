@@ -1,3 +1,0 @@
-git add .travis.yml
-git commit -m "Add empty Travis CI config"
-git push
